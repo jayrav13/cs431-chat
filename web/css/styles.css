@@ -1,0 +1,90 @@
+
+div.welcome-container
+{
+	width:70%;
+	margin:auto;
+}
+
+div.welcome-center
+{
+	margin:auto;
+	text-align:center;
+}
+
+h1.header-title
+{
+	text-align:center;
+}
+
+h2.header-message
+{
+	text-align:center;
+}
+
+div.login-container
+{
+	width:50%;
+	margin:auto;
+	float:left;
+}
+
+div.login-center
+{
+	width:80%;
+	margin:auto;
+	text-align:center;
+}
+
+div.register-container
+{
+	width:50%;
+	margin:auto;
+	float:right;
+}
+
+
+div.register-center
+{
+	width:80%;
+	margin:auto;
+	text-align:center;
+}
+
+div.chat-container
+{
+	width:50%;
+	height:60%;
+	margin:auto;
+}
+
+div.chat-center
+{
+	width:95%;
+	margin:auto;
+	text-align:center;
+}
+
+div.chat-content
+{
+	width:90%;
+	margin:auto;
+	border:1px solid black; 
+	height:70%;
+	overflow-y:scroll;
+	padding-bottom:10px;
+}
+
+h1.chat-header
+{
+	text-align:center;
+	width:100%;
+}
+
+div.chat-bubble
+{
+	height:auto;
+	padding:10px;
+}
+
+
+
